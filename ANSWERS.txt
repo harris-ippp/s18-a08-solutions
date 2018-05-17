@@ -1,0 +1,2 @@
+The percentage of the population that is college-educated is negatively
+associated with a county voting Republican. The percentage of the population with health insurance as well as the percentage of adults who are white are positively associated with this outcome.
