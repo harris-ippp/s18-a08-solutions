@@ -12,8 +12,8 @@ acs['County/City'] = acs['NAME'].str[:-10].str.upper()
 
 df = share.merge(acs, on='County/City')
 
-sns.pairplot(df, vars=['P_COLLEGE', 'P_WHITE', 'MEDIAN_INCOME', 'Republican Share'])
+sns.pairplot(df, vars=['P_COLLEGE', 'P_WHITE', 'P_INSURED', 'R_SHARE'])
 plt.savefig('pairplot.png')
 
-res = smf.ols('R_SHARE ~ P_COLLEGE + P_WHITE + MEDIAN_INCOME').fit()
+res = smf.ols('R_SHARE ~ P_COLLEGE + P_WHITE + P_INSURED', df).fit()
 print(res.summary())
