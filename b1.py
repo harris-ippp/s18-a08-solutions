@@ -33,14 +33,14 @@ for i,row in elections.iterrows():
     df['Total Votes Cast'] = to_number(df['Total Votes Cast'])
     df[republican_column] = to_number(df[republican_column])
 
-    df['County'] = df['County/City'].apply(get_county)
+    df['County/City'] = df['County/City'].apply(get_county)
 
-    df_county = df[['Total Votes Cast', republican_column]].groupby(df['County']).sum()
-    df_county['Republican Share'] = (df_county[republican_column] / 
+    df_county = df[['Total Votes Cast', republican_column]].groupby(df['County/City']).sum()
+    df_county['R_SHARE'] = (df_county[republican_column] / 
                                      df_county['Total Votes Cast'])
 
     df_county['Year'] = year
-    dfs.append(df_county[['Republican Share', 'Year']])
+    dfs.append(df_county[['R_SHARE', 'Year']])
 
 df = pd.concat(dfs)
 df.to_csv('republican_shares.csv')

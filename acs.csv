@@ -1,0 +1,134 @@
+P_COLLEGE,P_WHITE,MEDIAN_INCOME,NAME,state,county
+11.1,67.7,38503,"Accomack County, Virginia",51,001
+25.5,81.5,70342,"Albemarle County, Virginia",51,003
+10.5,92.6,45538,"Alleghany County, Virginia",51,005
+9.9,73.4,58269,"Amelia County, Virginia",51,007
+12.2,76.9,47002,"Amherst County, Virginia",51,009
+10.9,77.5,52134,"Appomattox County, Virginia",51,011
+34.5,72.2,108706,"Arlington County, Virginia",51,013
+15.4,93.2,56802,"Augusta County, Virginia",51,015
+10.6,93.7,44985,"Bath County, Virginia",51,017
+17.5,89.9,56725,"Bedford County, Virginia",51,019
+12.8,95.0,47800,"Bland County, Virginia",51,021
+18.3,93.9,61470,"Botetourt County, Virginia",51,023
+7.3,42.0,38858,"Brunswick County, Virginia",51,025
+6.3,95.5,30335,"Buchanan County, Virginia",51,027
+8.0,61.7,43514,"Buckingham County, Virginia",51,029
+13.3,81.5,47005,"Campbell County, Virginia",51,031
+12.8,66.0,57294,"Caroline County, Virginia",51,033
+9.6,97.4,37048,"Carroll County, Virginia",51,035
+7.4,42.1,54167,"Charles City County, Virginia",51,036
+8.3,67.8,33837,"Charlotte County, Virginia",51,037
+23.3,68.3,73869,"Chesterfield County, Virginia",51,041
+16.9,89.2,71986,"Clarke County, Virginia",51,043
+9.8,98.1,40500,"Craig County, Virginia",51,045
+14.3,78.0,66160,"Culpeper County, Virginia",51,047
+10.0,62.9,37489,"Cumberland County, Virginia",51,049
+6.3,98.3,31226,"Dickenson County, Virginia",51,051
+11.4,64.9,51579,"Dinwiddie County, Virginia",51,053
+10.8,55.0,47527,"Essex County, Virginia",51,057
+31.0,63.0,114329,"Fairfax County, Virginia",51,059
+20.7,87.2,91221,"Fauquier County, Virginia",51,061
+10.8,95.8,47288,"Floyd County, Virginia",51,063
+17.5,81.1,66425,"Fluvanna County, Virginia",51,065
+12.8,88.9,48720,"Franklin County, Virginia",51,067
+17.6,91.2,68929,"Frederick County, Virginia",51,069
+9.4,96.7,47675,"Giles County, Virginia",51,071
+13.9,87.7,62878,"Gloucester County, Virginia",51,073
+22.9,79.3,82326,"Goochland County, Virginia",51,075
+7.7,95.8,31002,"Grayson County, Virginia",51,077
+15.0,88.5,61615,"Greene County, Virginia",51,079
+4.8,39.2,40559,"Greensville County, Virginia",51,081
+10.3,60.7,37001,"Halifax County, Virginia",51,083
+24.3,86.9,81170,"Hanover County, Virginia",51,085
+25.3,58.0,63699,"Henrico County, Virginia",51,087
+7.5,72.4,34992,"Henry County, Virginia",51,089
+14.8,99.6,44877,"Highland County, Virginia",51,091
+16.8,72.6,66835,"Isle of Wight County, Virginia",51,093
+26.7,80.3,80226,"James City County, Virginia",51,095
+13.5,68.6,48852,"King and Queen County, Virginia",51,097
+21.3,76.8,84342,"King George County, Virginia",51,099
+13.3,76.7,64297,"King William County, Virginia",51,101
+16.1,70.2,50118,"Lancaster County, Virginia",51,103
+7.4,93.5,31577,"Lee County, Virginia",51,105
+35.2,67.3,125672,"Loudoun County, Virginia",51,107
+13.5,78.5,54662,"Louisa County, Virginia",51,109
+8.0,61.8,39911,"Lunenburg County, Virginia",51,111
+15.8,85.6,48271,"Madison County, Virginia",51,113
+15.5,86.1,64049,"Mathews County, Virginia",51,115
+10.9,61.4,40040,"Mecklenburg County, Virginia",51,117
+14.6,77.8,53093,"Middlesex County, Virginia",51,119
+22.6,86.4,49712,"Montgomery County, Virginia",51,121
+14.7,83.9,50994,"Nelson County, Virginia",51,125
+15.8,81.6,75303,"New Kent County, Virginia",51,127
+13.8,61.7,37011,"Northampton County, Virginia",51,131
+16.3,70.1,54440,"Northumberland County, Virginia",51,133
+9.9,57.0,36849,"Nottoway County, Virginia",51,135
+15.2,82.6,66990,"Orange County, Virginia",51,137
+8.7,95.8,45030,"Page County, Virginia",51,139
+8.7,92.1,35999,"Patrick County, Virginia",51,141
+9.5,74.9,43087,"Pittsylvania County, Virginia",51,143
+19.6,85.5,77684,"Powhatan County, Virginia",51,145
+11.6,63.7,42283,"Prince Edward County, Virginia",51,147
+14.7,59.0,64805,"Prince George County, Virginia",51,149
+23.4,60.4,98546,"Prince William County, Virginia",51,153
+11.9,92.0,49469,"Pulaski County, Virginia",51,155
+18.7,92.2,58026,"Rappahannock County, Virginia",51,157
+9.3,66.6,44919,"Richmond County, Virginia",51,159
+22.5,89.0,60380,"Roanoke County, Virginia",51,161
+12.7,93.4,52478,"Rockbridge County, Virginia",51,163
+14.8,93.9,55029,"Rockingham County, Virginia",51,165
+8.8,97.3,38370,"Russell County, Virginia",51,167
+8.7,98.1,38017,"Scott County, Virginia",51,169
+12.8,93.5,50450,"Shenandoah County, Virginia",51,171
+9.0,95.9,38906,"Smyth County, Virginia",51,173
+11.0,61.2,51032,"Southampton County, Virginia",51,175
+18.2,73.7,79742,"Spotsylvania County, Virginia",51,177
+21.9,69.3,97528,"Stafford County, Virginia",51,179
+16.2,52.1,56632,"Surry County, Virginia",51,181
+6.7,38.5,37917,"Sussex County, Virginia",51,183
+9.5,94.7,38238,"Tazewell County, Virginia",51,185
+13.4,90.9,63734,"Warren County, Virginia",51,187
+15.5,96.3,43835,"Washington County, Virginia",51,191
+13.3,68.6,51566,"Westmoreland County, Virginia",51,193
+8.9,92.6,36352,"Wise County, Virginia",51,195
+10.8,95.0,42888,"Wythe County, Virginia",51,197
+22.9,76.9,83410,"York County, Virginia",51,199
+29.4,62.7,89200,"Alexandria city, Virginia",51,510
+15.3,89.3,35801,"Bristol city, Virginia",51,520
+10.3,89.8,29109,"Buena Vista city, Virginia",51,530
+23.6,70.3,50727,"Charlottesville city, Virginia",51,540
+19.4,62.2,69978,"Chesapeake city, Virginia",51,550
+13.9,78.1,49639,"Colonial Heights city, Virginia",51,570
+7.0,81.6,34703,"Covington city, Virginia",51,580
+11.5,45.7,33721,"Danville city, Virginia",51,590
+9.2,32.1,27169,"Emporia city, Virginia",51,595
+30.6,69.4,104065,"Fairfax city, Virginia",51,600
+37.4,77.0,115244,"Falls Church city, Virginia",51,610
+14.1,38.3,38333,"Franklin city, Virginia",51,620
+25.1,64.0,53980,"Fredericksburg city, Virginia",51,630
+5.3,88.9,31110,"Galax city, Virginia",51,640
+15.2,42.3,49890,"Hampton city, Virginia",51,650
+21.1,84.5,40494,"Harrisonburg city, Virginia",51,660
+9.5,52.4,40814,"Hopewell city, Virginia",51,670
+23.5,84.5,34464,"Lexington city, Virginia",51,678
+19.6,65.1,40728,"Lynchburg city, Virginia",51,680
+18.8,69.6,74371,"Manassas city, Virginia",51,683
+20.6,66.6,75027,"Manassas Park city, Virginia",51,685
+11.3,49.1,31719,"Martinsville city, Virginia",51,690
+15.1,49.6,50089,"Newport News city, Virginia",51,700
+16.0,47.7,45268,"Norfolk city, Virginia",51,710
+12.1,87.2,26000,"Norton city, Virginia",51,720
+9.7,16.9,32169,"Petersburg city, Virginia",51,730
+24.0,94.4,84643,"Poquoson city, Virginia",51,735
+13.6,40.7,47050,"Portsmouth city, Virginia",51,740
+19.2,84.4,31457,"Radford city, Virginia",51,750
+21.9,44.2,41187,"Richmond city, Virginia",51,760
+14.5,63.8,39201,"Roanoke city, Virginia",51,770
+16.7,88.0,52351,"Salem city, Virginia",51,775
+19.3,83.3,42948,"Staunton city, Virginia",51,790
+16.2,52.3,65435,"Suffolk city, Virginia",51,800
+22.5,67.6,67719,"Virginia Beach city, Virginia",51,810
+13.3,81.8,45097,"Waynesboro city, Virginia",51,820
+27.9,74.8,50091,"Williamsburg city, Virginia",51,830
+17.8,80.9,46466,"Winchester city, Virginia",51,840
